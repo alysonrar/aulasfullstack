@@ -1,0 +1,28 @@
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\olamundo\bin\Debug\net8.0\olamundo.exe
+C:\Users\lyson\Documents\DotNet\olamundo\bin\Debug\net8.0\olamundo.deps.json
+C:\Users\lyson\Documents\DotNet\olamundo\bin\Debug\net8.0\olamundo.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\olamundo\bin\Debug\net8.0\olamundo.dll
+C:\Users\lyson\Documents\DotNet\olamundo\bin\Debug\net8.0\olamundo.pdb
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.dll
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\refint\olamundo.dll
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.pdb
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\olamundo.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\olamundo\obj\Debug\net8.0\ref\olamundo.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\refint\olamundo.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.pdb
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\bin\Debug\net8.0\olamundo.exe
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\bin\Debug\net8.0\olamundo.deps.json
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\bin\Debug\net8.0\olamundo.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\bin\Debug\net8.0\olamundo.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\bin\Debug\net8.0\olamundo.pdb
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\olamundo.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\olamundo\obj\Debug\net8.0\ref\olamundo.dll

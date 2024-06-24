@@ -1,0 +1,14 @@
+C:\Users\lyson\Documents\DotNet\variavel01\bin\Debug\net8.0\variavel01.exe
+C:\Users\lyson\Documents\DotNet\variavel01\bin\Debug\net8.0\variavel01.deps.json
+C:\Users\lyson\Documents\DotNet\variavel01\bin\Debug\net8.0\variavel01.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\variavel01\bin\Debug\net8.0\variavel01.dll
+C:\Users\lyson\Documents\DotNet\variavel01\bin\Debug\net8.0\variavel01.pdb
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.dll
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\refint\variavel01.dll
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.pdb
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\variavel01.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\variavel01\obj\Debug\net8.0\ref\variavel01.dll

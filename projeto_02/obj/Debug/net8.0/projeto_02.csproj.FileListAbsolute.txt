@@ -1,0 +1,14 @@
+C:\Users\lyson\Documents\DotNet\projeto_02\bin\Debug\net8.0\projeto_02.exe
+C:\Users\lyson\Documents\DotNet\projeto_02\bin\Debug\net8.0\projeto_02.deps.json
+C:\Users\lyson\Documents\DotNet\projeto_02\bin\Debug\net8.0\projeto_02.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\projeto_02\bin\Debug\net8.0\projeto_02.dll
+C:\Users\lyson\Documents\DotNet\projeto_02\bin\Debug\net8.0\projeto_02.pdb
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.dll
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\refint\projeto_02.dll
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.pdb
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\projeto_02.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\projeto_02\obj\Debug\net8.0\ref\projeto_02.dll

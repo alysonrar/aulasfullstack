@@ -1,0 +1,14 @@
+C:\Users\lyson\Documents\DotNet\projeto_01\bin\Debug\net8.0\projeto_01.exe
+C:\Users\lyson\Documents\DotNet\projeto_01\bin\Debug\net8.0\projeto_01.deps.json
+C:\Users\lyson\Documents\DotNet\projeto_01\bin\Debug\net8.0\projeto_01.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\projeto_01\bin\Debug\net8.0\projeto_01.dll
+C:\Users\lyson\Documents\DotNet\projeto_01\bin\Debug\net8.0\projeto_01.pdb
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.dll
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\refint\projeto_01.dll
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.pdb
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\projeto_01.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\projeto_01\obj\Debug\net8.0\ref\projeto_01.dll

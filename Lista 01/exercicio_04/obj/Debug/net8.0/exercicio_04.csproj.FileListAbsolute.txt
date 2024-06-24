@@ -1,0 +1,14 @@
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\bin\Debug\net8.0\exercicio_04.exe
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\bin\Debug\net8.0\exercicio_04.deps.json
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\bin\Debug\net8.0\exercicio_04.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\bin\Debug\net8.0\exercicio_04.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\bin\Debug\net8.0\exercicio_04.pdb
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\refint\exercicio_04.dll
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.pdb
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\exercicio_04.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\Lista 01\exercicio_04\obj\Debug\net8.0\ref\exercicio_04.dll

@@ -1,0 +1,14 @@
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\bin\Debug\net8.0\exercicio_13.exe
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\bin\Debug\net8.0\exercicio_13.deps.json
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\bin\Debug\net8.0\exercicio_13.runtimeconfig.json
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\bin\Debug\net8.0\exercicio_13.dll
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\bin\Debug\net8.0\exercicio_13.pdb
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.AssemblyInfoInputs.cache
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.AssemblyInfo.cs
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.dll
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\refint\exercicio_13.dll
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.pdb
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\exercicio_13.genruntimeconfig.cache
+C:\Users\lyson\Documents\DotNet\lista_02\exercicio_13\obj\Debug\net8.0\ref\exercicio_13.dll
